@@ -23,9 +23,9 @@ h3 {
 }
 
 h4 {
-	text-decoration: italic;
+	font-style: italic;
 }
 
 h5 {
-	text-decoration: bold;
+	font-style: bold;
 }
